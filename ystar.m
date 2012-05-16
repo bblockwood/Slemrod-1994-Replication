@@ -1,4 +1,4 @@
-% FINDS VECTOR OF AGENTS' OPTIMAL EARNINGS UNDER A GIVEN TAX REGIME.
+% Finds vector of agents' selected earnings, given some tax. 
 
 function [yArray,cArray,uArray] = ystar(wArray, tax)
 

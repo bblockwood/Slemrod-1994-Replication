@@ -6,7 +6,7 @@
 clear all;
 
 global A E;
-E = 0.2;
+E = 0.2;    % elasticity of substitution
 
 opts = optimset('display','off');
 

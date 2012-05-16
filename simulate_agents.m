@@ -1,3 +1,5 @@
+% Generates vector of skills at evenly spaced intervals of CDF. 
+
 function wArray = simulate_agents(nAgents,mu,sd)
 
 stepsize = 1/nAgents;

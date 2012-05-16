@@ -1,4 +1,4 @@
-% Function to be minimized to find optimal tax
+% Function to be minimized by fminsearch to find optimal tax regime. 
 
 function result = obj(wArray,sol)
 
